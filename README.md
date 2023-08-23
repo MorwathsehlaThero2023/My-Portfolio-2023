@@ -1,41 +1,53 @@
-# My-Portfolio-2023
-FRONT END DEVELOPER PORTFOLIO 
-Portfolio HTML Code Overview
+# My Portfolio 2023
+![Portfolio Icon](portfolio-icon.png)
 
-The provided HTML code is a part of a personal portfolio website designed to showcase the work and skills of Thero Morwathsehla, a Front-End Developer. The code is structured into different sections, each serving a specific purpose:
+Welcome to my Front-End Developer Portfolio!
 
-Head Section:
+## Overview
+This repository contains the HTML and CSS code for my personal portfolio website. The purpose of this portfolio is to showcase my skills, projects, and experiences as a front-end developer. The website is designed to provide visitors with an engaging and informative overview of my work.
 
-The code includes various external stylesheet links for styling and fonts.
-It imports Font Awesome icons for visual enhancements.
-The linked fonts are Poppins and Raleway, which will be used throughout the website.
-Navigation (Nav) Section:
+## Table of Contents
+- [Introduction](#introduction)
+- [Projects](#projects)
+- [Contact](#contact)
+- [Usage](#usage)
+- [License](#license)
 
-This section creates a navigation bar with links to different sections of the website.
-The navigation bar includes links to the "About," "Work," and "Contact" sections.
-Welcome Section:
+## Introduction
+![Profile Image](profile-image.jpg)
 
-Displays the welcome message introducing the portfolio owner, Thero Morwathsehla.
-Projects Section:
+I'm Thero Morwathsehla, a passionate front-end developer based in South Africa, Johannesburg. This portfolio serves as a platform to share my journey, skills, and accomplishments in the field of web development. Feel free to explore my projects and get in touch!
 
-This section showcases a collection of projects undertaken by the developer.
-Each project is represented by a clickable tile with an image and a title.
-The image represents the project's subject and the title is displayed in a coding-like format.
-Links lead to external websites (CodePen) where the projects are hosted.
-Contact Section:
+## Projects
+Here are a few highlights from my project portfolio:
 
-Provides options for visitors to connect with Thero.
-Social media icons (Facebook, GitHub, Twitter) are linked to respective profiles.
-There are also options to send an email and make a phone call.
-Footer Section:
+### Random Quote Machine
+![Random Quote Machine](random-quote-machine.png)
+A web application that generates random quotes with the click of a button. Built using HTML, CSS, and JavaScript.
 
-Displays a copyright notice and the creator's name.
-Acknowledges that all projects and details were created by Thero Morwathsehla.
+### To-Do List
+![To-Do List](to-do-list.png)
+An interactive task management tool that allows users to add, edit, and remove tasks. Developed with HTML, CSS, and JavaScript.
 
-Usage Notes:
+### Bootstrap Responsive Design
+![Bootstrap Responsive Design](bootstrap-responsive.png)
+A responsive webpage designed using Bootstrap's grid system and components. Ensures seamless user experience across devices.
 
-The HTML structure follows semantic HTML5, making it more accessible and SEO-friendly.
-The CSS for styling is expected to be in an external file called "styles.css."
-The projects are linked using the CodePen URLs provided in the HTML.
-Social media and contact links are placeholders. Actual links should be added for proper functionality.
-The footer emphasizes the creator's name and ownership of projects, establishing authenticity.
+### Calculator
+![Calculator](calculator.png)
+A digital calculator interface for performing basic arithmetic operations. Developed using HTML, CSS, and JavaScript.
+
+## Contact
+Connect with me on social media:
+- [Facebook](https://www.facebook.com/YourFacebookProfile)
+- [GitHub](https://github.com/YourGitHubProfile)
+- [Twitter](https://twitter.com/YourTwitterProfile)
+
+For inquiries and collaboration opportunities, feel free to reach out via email at therogd@gmail.com or give me a call at 065 596 5292.
+
+## Usage
+To view the website, simply open the `index.html` file in your web browser. Make sure to have the `styles.css` file in the same directory for proper styling.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
